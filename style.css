@@ -1,0 +1,211 @@
+*{
+    font-family: system-ui;
+}
+.navbar
+{
+    background-color: rgb(15, 33, 50);
+    padding: 20px;
+
+}
+a
+{
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    text-decoration: none;
+
+}
+.float-right
+{
+   float: right;
+}
+.btn
+{
+    padding: 5px 20px 5px 20px;
+}
+.btnprimary
+{
+    background-color: rgb(12, 79, 204);
+}
+.btnwarning
+{
+    background-color: rgb(227, 245, 29);
+    color: black;
+}
+body{
+    margin: 0%;
+}
+.row
+{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.card
+{
+    border: solid 2px rgb(226, 224, 220);
+    margin-left: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.text_center
+{
+    text-align: center;
+
+}
+/* call system, it divides the element in equal sizes as mentioned */
+.col2  
+{
+    width: 25%;
+    height:300px;
+}
+.card img 
+{
+    height: 20%;
+    width: 20%;
+}
+.card
+{
+    text-align: center;
+}
+.tcolor
+{
+    color: rgb(38, 99, 220);
+}
+.card_body
+{
+    color: rgb(98, 94, 94);
+}
+.footerp
+{
+    color: aliceblue;
+    background-color: rgb(2, 39, 44);
+    text-align: center;
+    padding: 60px;
+    margin: 0%;
+}
+.footers
+{
+    color: rgb(253, 114, 27);
+}
+.about
+{
+    padding: 50px;
+    text-align: center;
+}
+.aboutbody
+{
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    color: rgb(78, 73, 73);
+}
+.footabot
+{
+  margin-bottom: 0%;
+}
+.abouth
+{
+    color: coral;
+
+}
+.col-8
+{
+    display: flex;
+    padding-left: 60px;
+    padding-right:60px;
+    padding-bottom: 55px;
+   
+}
+.gaphis1
+{
+   
+    padding-left: 80px ;
+}
+.contactbody
+{
+   
+    padding-left: 30px;
+    background-size:200px;
+ 
+   padding-right: 30px;
+   display: inline-block;
+   text-align: center;
+   margin-left: 70px;
+   margin-bottom: 2%;
+
+   
+   padding-bottom: 50px;
+
+}
+.contacthead
+{
+    padding-top: 140px;
+    color: rgb(186, 197, 36);
+    font-size: 50px;
+    font-weight: 900 ;
+}
+.io
+{
+    text-align: center;
+    padding-right: 38px;
+
+}
+.COL9
+{
+    display: flex;
+   
+}
+.iot 
+{
+    
+    display: flex;
+   
+    
+  
+    
+}
+.iom
+{
+   
+   
+    margin-left: 40px;
+    padding-bottom: 50px;
+    
+   
+
+   
+    
+}
+.cc
+{
+    margin-left: 40px;
+
+
+}
+.conoutline
+{
+    
+    border: 1px solid rgb(152, 115, 46);
+    border-radius: 30px;
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 120px;
+    padding-left: 20px ;
+    background-color: rgb(16, 28, 35);
+    color: rgb(255, 255, 255);
+    margin-bottom: 150px;
+
+}
+.btncon
+{
+    text-align: center;
+    padding-top: 40px;
+   
+}
+.bos
+{
+    text-align: center;
+    
+}    
